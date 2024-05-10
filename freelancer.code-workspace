@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../prrueba"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Freelancer",
+		"liveServer.settings.AdvanceCustomBrowserCmdLine": "firefox",
+		"liveServer.settings.ChromeDebuggingAttachment": false,
+		"liveServer.settings.CustomBrowser": "firefox",
+		"liveServer.settings.fullReload": true
+	}
+}
